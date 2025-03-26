@@ -35,6 +35,9 @@ export default function BottomNavigation() {
           );
         })}
       </div>
+      <div className="text-center text-xs text-gray-400 mt-1">
+        Created by Ibrahim Bin Khalid © 2023
+      </div>
     </footer>
   );
 }

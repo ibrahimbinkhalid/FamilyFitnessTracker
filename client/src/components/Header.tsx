@@ -7,7 +7,7 @@ export default function Header() {
         <Link href="/">
           <h1 className="text-xl font-bold cursor-pointer">FamFit</h1>
         </Link>
-        <span className="ml-2 text-xs bg-white bg-opacity-20 px-2 py-1 rounded-full">Family Edition</span>
+        <span className="ml-2 text-xs bg-white bg-opacity-20 px-2 py-1 rounded-full">by Ibrahim Bin Khalid</span>
       </div>
       <div className="flex items-center space-x-2">
         <span className="material-icons text-xl cursor-pointer">notifications</span>
